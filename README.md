@@ -24,7 +24,7 @@ Backend:
 
 - Express REST API (Node.js)
 - Mongoose (MongoDB)
-  TypeScript
+- TypeScript
 
 ## Contact
 
